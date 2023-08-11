@@ -1,9 +1,6 @@
 # storesales_forecasting
 
-@misc{store-sales-time-series-forecasting,
-    author = {Alexis Cook, DanB, inversion, Ryan Holbrook},
-    title = {Store Sales - Time Series Forecasting},
-    publisher = {Kaggle},
-    year = {2021},
-    url = {https://kaggle.com/competitions/store-sales-time-series-forecasting}
-}
+All data was provided by the following source:
+
+Alexis Cook, R.. (2021). Store Sales - Time Series Forecasting.
+
